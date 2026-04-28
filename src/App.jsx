@@ -1,9 +1,10 @@
-import LoginForm from "./features/auth/components/login/LoginForm";
+
+import RegistrationForm from "./features/auth/components/registration/RegistrationForm";
 
 function App() {
     return(
         <>
-        <LoginForm/>
+        <RegistrationForm/>
         </>
     );
 }
